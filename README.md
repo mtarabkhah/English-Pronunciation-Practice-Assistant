@@ -39,6 +39,7 @@ This Python script is designed to help you improve your English pronunciation. I
 - Add "Pause" and "Stop" options to give more control to the user during the pronunciation practice.
 - Implement checks for the existence of a text file in the provided path before attempting to read it.
 - Allow the user to type or paste text directly into the "Source Text" field for practice, instead of relying only on file input.
+- Add the option of providing a short definition for the mispronounced words
 
 ## Contributing
 
